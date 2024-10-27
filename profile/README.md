@@ -71,17 +71,6 @@
   </li>
 </ul>
 
-<!-- Examples of the Api's that can be used for the wishlist application -->
-<h2 id="Apis">Api's in Use</h2> 
-<ul>
-  <li>
-    <a href="https://developers.etsy.com/documentation/">Etsy</a>
-  </li>
-  <li>
-    <a href="https://fakeapi.platzi.com/">Platzi Fake Store</a>
-  </li>
-</ul>
-
 <hr>
 
 <h2 id="Erd">ERD</h2> 
